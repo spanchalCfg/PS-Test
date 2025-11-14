@@ -178,50 +178,5 @@
     "Quantity": 5,
     "Price": 2.95,
     "Brand": "IronPlus"
-  },
-  {
-    "Id": 0,
-    "FullName": "Shubham",
-    "Notes": "Good",
-    "ExpiryDate": "2025-11-29T00:00:00",
-    "Quantity": 3,
-    "Price": 10000,
-    "Brand": "panchal"
-  },
-  {
-    "Id": 0,
-    "FullName": "Rai",
-    "Notes": "nfhmvhngbfvdcsx",
-    "ExpiryDate": "2026-01-16T00:00:00",
-    "Quantity": 123,
-    "Price": 100,
-    "Brand": "xyz"
-  },
-  {
-    "Id": 0,
-    "FullName": "qwerthj",
-    "Notes": "",
-    "ExpiryDate": "2025-11-26T00:00:00",
-    "Quantity": 43567890,
-    "Price": 345678,
-    "Brand": "vcb n"
-  },
-  {
-    "Id": 0,
-    "FullName": "xcvbnm,.",
-    "Notes": "",
-    "ExpiryDate": "2025-11-04T00:00:00",
-    "Quantity": 3456,
-    "Price": 432,
-    "Brand": "vxbcvnm,"
-  },
-  {
-    "Id": 0,
-    "FullName": "dsfg",
-    "Notes": "",
-    "ExpiryDate": "2025-11-13T00:00:00",
-    "Quantity": 5467,
-    "Price": 234,
-    "Brand": "fsh"
   }
 ]
