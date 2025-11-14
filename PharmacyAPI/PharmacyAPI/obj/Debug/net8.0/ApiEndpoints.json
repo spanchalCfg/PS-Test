@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "PharmacyAPI.Controllers.MedicineController",
+    "Method": "GetAll",
+    "RelativePath": "api/Medicine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PharmacyAPI.Models.Medicine, PharmacyAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PharmacyAPI.Controllers.MedicineController",
+    "Method": "AddMedicine",
+    "RelativePath": "api/Medicine",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medicine",
+        "Type": "PharmacyAPI.Models.Medicine",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

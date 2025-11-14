@@ -1,0 +1,227 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Pain relief",
+    "ExpiryDate": "2026-05-10T00:00:00",
+    "Quantity": 100,
+    "Price": 2.50,
+    "Brand": "MediCare"
+  },
+  {
+    "Id": 2,
+    "FullName": "Ibuprofen 200mg",
+    "Notes": "Anti-inflammatory",
+    "ExpiryDate": "2025-12-01T00:00:00",
+    "Quantity": 50,
+    "Price": 3.75,
+    "Brand": "HealWell"
+  },
+  {
+    "Id": 3,
+    "FullName": "Amoxicillin 250mg",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-03-15T00:00:00",
+    "Quantity": 30,
+    "Price": 5.00,
+    "Brand": "PharmaPlus"
+  },
+  {
+    "Id": 4,
+    "FullName": "Cetirizine 10mg",
+    "Notes": "Allergy relief",
+    "ExpiryDate": "2025-08-20T00:00:00",
+    "Quantity": 75,
+    "Price": 1.80,
+    "Brand": "AllerFree"
+  },
+  {
+    "Id": 5,
+    "FullName": "Metformin 500mg",
+    "Notes": "Diabetes management",
+    "ExpiryDate": "2026-01-30T00:00:00",
+    "Quantity": 60,
+    "Price": 4.25,
+    "Brand": "GlucoCare"
+  },
+  {
+    "Id": 6,
+    "FullName": "Aspirin 100mg",
+    "Notes": "Blood thinner",
+    "ExpiryDate": "2025-11-10T00:00:00",
+    "Quantity": 90,
+    "Price": 2.10,
+    "Brand": "CardioSafe"
+  },
+  {
+    "Id": 7,
+    "FullName": "Omeprazole 20mg",
+    "Notes": "Acid reflux",
+    "ExpiryDate": "2026-06-05T00:00:00",
+    "Quantity": 40,
+    "Price": 3.60,
+    "Brand": "DigestWell"
+  },
+  {
+    "Id": 8,
+    "FullName": "Loratadine 10mg",
+    "Notes": "Seasonal allergies",
+    "ExpiryDate": "2025-09-15T00:00:00",
+    "Quantity": 100,
+    "Price": 2.95,
+    "Brand": "ClearAll"
+  },
+  {
+    "Id": 9,
+    "FullName": "Azithromycin 500mg",
+    "Notes": "Broad-spectrum antibiotic",
+    "ExpiryDate": "2026-02-28T00:00:00",
+    "Quantity": 25,
+    "Price": 6.50,
+    "Brand": "ZithroMax"
+  },
+  {
+    "Id": 10,
+    "FullName": "Hydroxyzine 25mg",
+    "Notes": "Anxiety and allergies",
+    "ExpiryDate": "2025-07-22T00:00:00",
+    "Quantity": 35,
+    "Price": 3.20,
+    "Brand": "CalmAll"
+  },
+  {
+    "Id": 11,
+    "FullName": "Simvastatin 20mg",
+    "Notes": "Cholesterol control",
+    "ExpiryDate": "2026-04-18T00:00:00",
+    "Quantity": 80,
+    "Price": 4.75,
+    "Brand": "LipoGuard"
+  },
+  {
+    "Id": 12,
+    "FullName": "Furosemide 40mg",
+    "Notes": "Diuretic",
+    "ExpiryDate": "2025-10-12T00:00:00",
+    "Quantity": 45,
+    "Price": 2.85,
+    "Brand": "AquaFlush"
+  },
+  {
+    "Id": 13,
+    "FullName": "Levothyroxine 50mcg",
+    "Notes": "Thyroid hormone",
+    "ExpiryDate": "2026-07-01T00:00:00",
+    "Quantity": 100,
+    "Price": 3.90,
+    "Brand": "ThyroCare"
+  },
+  {
+    "Id": 14,
+    "FullName": "Prednisone 10mg",
+    "Notes": "Steroid anti-inflammatory",
+    "ExpiryDate": "2025-06-30T00:00:00",
+    "Quantity": 20,
+    "Price": 5.20,
+    "Brand": "InflamEase"
+  },
+  {
+    "Id": 15,
+    "FullName": "Clopidogrel 75mg",
+    "Notes": "Prevent blood clots",
+    "ExpiryDate": "2026-03-10T00:00:00",
+    "Quantity": 60,
+    "Price": 6.00,
+    "Brand": "ClotBlock"
+  },
+  {
+    "Id": 16,
+    "FullName": "Ranitidine 150mg",
+    "Notes": "Stomach acid reducer",
+    "ExpiryDate": "2025-12-25T00:00:00",
+    "Quantity": 50,
+    "Price": 3.10,
+    "Brand": "AcidAway"
+  },
+  {
+    "Id": 17,
+    "FullName": "Doxycycline 100mg",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-05-20T00:00:00",
+    "Quantity": 30,
+    "Price": 4.95,
+    "Brand": "DoxyMed"
+  },
+  {
+    "Id": 18,
+    "FullName": "Melatonin 5mg",
+    "Notes": "Sleep aid",
+    "ExpiryDate": "2025-08-01T00:00:00",
+    "Quantity": 100,
+    "Price": 2.40,
+    "Brand": "SleepRight"
+  },
+  {
+    "Id": 19,
+    "FullName": "Vitamin D3 1000IU",
+    "Notes": "Bone health",
+    "ExpiryDate": "2026-01-15T00:00:00",
+    "Quantity": 120,
+    "Price": 3.30,
+    "Brand": "SunBoost"
+  },
+  {
+    "Id": 20,
+    "FullName": "Iron Sulfate 325mg",
+    "Notes": "Iron supplement",
+    "ExpiryDate": "2025-11-05T00:00:00",
+    "Quantity": 5,
+    "Price": 2.95,
+    "Brand": "IronPlus"
+  },
+  {
+    "Id": 0,
+    "FullName": "Shubham",
+    "Notes": "Good",
+    "ExpiryDate": "2025-11-29T00:00:00",
+    "Quantity": 3,
+    "Price": 10000,
+    "Brand": "panchal"
+  },
+  {
+    "Id": 0,
+    "FullName": "Rai",
+    "Notes": "nfhmvhngbfvdcsx",
+    "ExpiryDate": "2026-01-16T00:00:00",
+    "Quantity": 123,
+    "Price": 100,
+    "Brand": "xyz"
+  },
+  {
+    "Id": 0,
+    "FullName": "qwerthj",
+    "Notes": "",
+    "ExpiryDate": "2025-11-26T00:00:00",
+    "Quantity": 43567890,
+    "Price": 345678,
+    "Brand": "vcb n"
+  },
+  {
+    "Id": 0,
+    "FullName": "xcvbnm,.",
+    "Notes": "",
+    "ExpiryDate": "2025-11-04T00:00:00",
+    "Quantity": 3456,
+    "Price": 432,
+    "Brand": "vxbcvnm,"
+  },
+  {
+    "Id": 0,
+    "FullName": "dsfg",
+    "Notes": "",
+    "ExpiryDate": "2025-11-13T00:00:00",
+    "Quantity": 5467,
+    "Price": 234,
+    "Brand": "fsh"
+  }
+]

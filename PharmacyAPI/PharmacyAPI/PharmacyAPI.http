@@ -1,0 +1,6 @@
+@PharmacyAPI_HostAddress = http://localhost:5256
+
+GET {{PharmacyAPI_HostAddress}}/medicine/
+Accept: application/json
+
+###
